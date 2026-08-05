@@ -36,8 +36,9 @@
 	git init
 	git remote add origin [내-깃허브-저장소-주소]
 
+ex)
     git init
-    git remote add origin [내-깃허브-저장소-주소]
+    git remote add origin https://github.com/oransee1/A1-1.git
 ```
 
 //=================
