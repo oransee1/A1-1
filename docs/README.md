@@ -1,11 +1,11 @@
 
 
 
-# A1-1 미션 프로젝트 진행 4단계 로드맵 : GIT 사용 방법
+# A1-1 미션 프로젝트 진행 7단계 로드맵 : GIT 사용 방법
 
 
 //=================
->## GitHub의 사용 목적 : Local 데스크톱 작업 환경과 동일한 크라우드(가상 환경)의 동기화 시킴을 목적으로 함.
+>## GitHub의 사용 목적 : Local 데스크톱 작업 환경과 동일한 클라우드(원격 저장소)의 동기화 시킴을 목적으로 함.
 
 //=================
 
@@ -170,8 +170,14 @@ cd (본인_작업디렉터리)
 ```
 
 ```
-git clone -b main https://github.com
+git clone -b main --single-branch [내-깃허브-저장소-주소]
+
+ex)
+git clone -b main --single-branch https://github.com/oransee1/A1-1.git
 ```
+
+> -b 는 clone 직후 체크아웃할 브랜치를 지정하는 옵션입니다.
+> -b 만 쓰면 나머지 브랜치도 함께 받아오므로, 해당 브랜치 하나만 가져오려면 --single-branch 를 같이 씁니다.
 
 ## 6단계 : Local 데스크톱 상에서 폴더 및 내용 정리
 
@@ -179,6 +185,9 @@ git clone -b main https://github.com
 
 ## 7단계 : 폴더 및 내용 정리 결과를 Push 함.
 
-작업디렉터리 폴더 내부에서, 마우스 오른쪽 클릭하여 "git bash here" 항목을 클릭
+작업디렉터리 폴더 내부에서, 마우스 오른쪽 클릭하여 "Git Bash Here" 항목을 클릭합니다.
+
+> Windows 11 은 우클릭 후 "추가 옵션 표시"를 눌러야 항목이 보입니다.
+> 항목이 아예 없다면 Git for Windows 설치 시 해당 옵션이 빠진 것이므로, VSCode 터미널이나 명령 프롬프트에서 cd 로 폴더에 들어가도 동일합니다.
 
 > Git 명령어로는 commit 과 push 명령어를 사용한다.
