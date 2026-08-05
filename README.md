@@ -99,13 +99,13 @@ while True:
 
 ### 1) 기능 구현 순서 추천:
 
-	- 프롬프트 목록 보기 (show_list): 리스트를 순회하며 번호와 함께 출력
-
-	- 프롬프트 추가 (add_prompt): input()으로 제목, 내용, 카테고리를 받아 prompts.append()로 추가
-
-	- 상세 보기 및 검색 (search_prompt, view_detail): 조건에 맞는 데이터 찾기
-
-	- 즐겨찾기 관리 (toggle_favorite): True/False 값 반전시키기
+>- 프롬프트 목록 보기 (show_list): 리스트를 순회하며 번호와 함께 출력
+>
+>- 프롬프트 추가 (add_prompt): input()으로 제목, 내용, 카테고리를 받아 prompts.append()로 추가
+>
+>- 상세 보기 및 검색 (search_prompt, view_detail): 조건에 맞는 데이터 찾기
+>
+>- 즐겨찾기 관리 (toggle_favorite): True/False 값 반전시키기
 
 
 ### 2) Git 브랜치 미션 수행 팁:
@@ -144,7 +144,7 @@ while True:
 	### VSCode를 켜고 빈 폴더를 연 뒤, main.py 파일을 만드세요.
 
 	### 터미널을 열어 git init을 치고 위에서 안내한 2단계 코드를 복사해서 붙여넣은 뒤 실행해 보세요. 
-        ### 메뉴가 뜨는 것을 확인하는 순간 첫 번째 발자국이 성공적으로 떼어진 것입니다!
+    ### 메뉴가 뜨는 것을 확인하는 순간 첫 번째 발자국이 성공적으로 떼어진 것입니다!
 
 ## 추가기능 :  원본 저장소 클론(파일 다운 및 연결고리) : git clone
 
