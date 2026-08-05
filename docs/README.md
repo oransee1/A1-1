@@ -157,3 +157,12 @@ git clone https://github.com/seongbin45/Videos_log.git
 cd Videos_log
 
 ```
+
+
+## 5단계 : Clone 기능으로 Local 데스크톱으로 GitHub Repo의 특정 브런치 가져오기
+
+
+## 6단계 : Local 데스크톱 상에서 폴더 및 내용 정리
+
+
+## 7단계 : 폴더 및 내용 정리 결과를 Push 함.
