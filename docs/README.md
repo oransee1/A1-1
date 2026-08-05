@@ -18,19 +18,6 @@
  git --version
 ```
 
-
-<img width="1920" height="1080" alt="VSCode설정" src="https://github.com/user-attachments/assets/b2bde268-8d8b-4349-baae-d550c71e1640" />
-
-
-
-<img width="1920" height="1080" alt="GitHub저장소-master" src="https://github.com/user-attachments/assets/3ea52387-c732-4cb1-9940-8fb9a9d2ab6b" />
-
-
-
-
-
-
-
 //=================
 
 ### 2) Git 사용자 설정 (처음 Git을 쓰는 경우 필수)
