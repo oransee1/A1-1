@@ -1,3 +1,6 @@
+
+
+
 # A1-1 미션 프로젝트 진행 4단계 로드맵 : GIT 사용 방법
 
 //=================
@@ -14,6 +17,19 @@
  python --version
  git --version
 ```
+
+
+<img width="1920" height="1080" alt="VSCode설정" src="https://github.com/user-attachments/assets/b2bde268-8d8b-4349-baae-d550c71e1640" />
+
+
+
+<img width="1920" height="1080" alt="GitHub저장소-master" src="https://github.com/user-attachments/assets/3ea52387-c732-4cb1-9940-8fb9a9d2ab6b" />
+
+
+
+
+
+
 
 //=================
 
