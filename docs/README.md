@@ -161,8 +161,20 @@ cd Videos_log
 
 ## 5단계 : Clone 기능으로 Local 데스크톱으로 GitHub Repo의 특정 브런치 가져오기
 
+```
+cd (본인_작업디렉터리)
+```
+
+```
+git clone -b main https://github.com
+```
 
 ## 6단계 : Local 데스크톱 상에서 폴더 및 내용 정리
 
+> 본인이 직접 폴더 만들고, 파일 수정
 
 ## 7단계 : 폴더 및 내용 정리 결과를 Push 함.
+
+작업디렉터리 폴더 내부에서, 마우스 오른쪽 클릭하여 "git bash here" 항목을 클릭
+
+> Git 명령어로는 commit 과 push 명령어를 사용한다.
